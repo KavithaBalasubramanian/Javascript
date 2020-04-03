@@ -1,0 +1,14 @@
+"'Image URL for 4a, 4b, 4c, 4d :https://drive.google.com/file/d/1h5dv4otA6aTQtekkjGbKuv7SLyZkzjGG/view?usp=sharing"'
+
+"'4a. Print the price of Javascript book in console."'
+Answer: console.log(library[0].price)
+
+"'4b.Print the age of Nodejs Author in console."'
+Answer : console.log(library[1].authordetails.age)
+
+"'4c. Print how many readers for javascript in console."'
+Answer :console.log(library[0].readers.length)
+
+"'4d. Print the count value of Person 2 in console."'
+Answer:console.log(library[0].readers[1].count)
+
