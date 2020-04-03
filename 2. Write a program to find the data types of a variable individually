@@ -1,0 +1,60 @@
+"'2. Write a program to find the data types of a variable individually "'
+
+
+
+
+String : 
+
+var type=function(a){
+	console.log(typeof a )
+};
+type("Welcome from guvi");
+
+
+
+Number :
+
+var type=function(a){
+	console.log(typeof a )
+};
+type(27);
+
+
+
+Object :
+
+var type=function(a){
+	console.log(typeof a )
+};
+type({
+name: "Guvi",
+age:25,
+mailid:"guvi@gmail.com"
+});
+
+
+boolean :
+
+var type=function(a){
+	console.log(typeof a )
+};
+type(true);
+
+
+
+
+Object :
+
+var type=function(a){
+	console.log(typeof a )
+};
+type(null);
+
+
+
+
+undefined :
+var type=function(a){
+	console.log(typeof a )
+};
+type(undefined);
